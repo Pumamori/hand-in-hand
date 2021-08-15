@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"spr_main_tiles","path":"sprites/spr_main_tiles/spr_main_tiles.yy",},"order":0,},
+    {"id":{"name":"tls_main","path":"tilesets/tls_main/tls_main.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
